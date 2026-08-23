@@ -1,10 +1,10 @@
 # Plant-disease-recognizer
 A Flask web application that uses a TensorFlow deep learning model to detect and classify 39 different plant diseases from leaf images.
 
-Model Setup Instructions
+#Model Setup Instructions
 To use this project, you need to download a pre-trained model from the given Google Drive link and place it in the models directory. Follow the steps below to set it up correctly:
 
-Steps to Download and Place the Model
+#Steps to Download and Place the Model
 Download the Model
 
 Click here to open the Google Drive link.
